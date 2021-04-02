@@ -1,2 +1,4 @@
 # Spark-Foundation-Task-1
-Prediction using Supervised ML
+## Data Science & Business Analytics
+## Prediction using Supervised ML
+## Author: Aakash Banerjee
